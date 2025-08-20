@@ -1,0 +1,11 @@
+rep_id,name,tier,expected_deals_per_quarter_min,expected_deals_per_quarter_max
+1,Alex Barbosa,Average,3,5
+2,Casey Oliveira,Good,5,8
+3,Jamie Barbosa,Average,3,5
+4,Jordan Carvalho,Underperformer,1,3
+5,Alex Souza,Good,5,8
+6,Quinn Carvalho,Good,5,8
+7,Casey Barbosa,Top,8,12
+8,Quinn Gomes,Average,3,5
+9,Drew Pereira,Good,5,8
+10,Alex Oliveira,Average,3,5

@@ -1,0 +1,449 @@
+deal_id,activity_id,keyword,source
+1,1,quality defects,email-out
+1,2,quality defects,email-in
+1,1,predictive maintenance,email-out
+1,2,predictive maintenance,email-in
+1,3,ERP integration,email-out
+1,4,ERP integration,email-in
+1,3,quality defects,email-out
+1,4,quality defects,email-in
+1,3,cycle time,email-out
+1,4,cycle time,email-in
+1,3,predictive maintenance,email-out
+1,4,predictive maintenance,email-in
+1,5,ERP integration,email-out
+1,6,ERP integration,email-in
+1,5,supply chain,email-out
+1,6,supply chain,email-in
+1,5,downtime,email-out
+1,6,downtime,email-in
+1,5,cycle time,email-out
+1,6,cycle time,email-in
+1,7,supply chain,email-out
+1,8,supply chain,email-in
+1,7,downtime,email-out
+1,8,downtime,email-in
+1,7,OEE,email-out
+1,8,OEE,email-in
+1,7,parts traceability,email-out
+1,8,parts traceability,email-in
+1,9,ERP integration,meeting
+1,9,OEE,meeting
+1,9,predictive maintenance,meeting
+2,10,cycle time,email-out
+2,11,cycle time,email-in
+2,10,predictive maintenance,email-out
+2,11,predictive maintenance,email-in
+2,12,OEE,email-out
+2,13,OEE,email-in
+2,12,shop floor,email-out
+2,13,shop floor,email-in
+2,12,cycle time,email-out
+2,13,cycle time,email-in
+2,12,predictive maintenance,email-out
+2,13,predictive maintenance,email-in
+2,14,OEE,email-out
+2,15,OEE,email-in
+2,14,shop floor,email-out
+2,15,shop floor,email-in
+2,16,downtime,meeting
+2,16,shop floor,meeting
+2,16,quality defects,meeting
+2,17,ERP integration,meeting
+2,17,supply chain,meeting
+2,17,MES,meeting
+2,17,quality defects,meeting
+3,18,OEE,email-out
+3,19,OEE,email-in
+3,18,cycle time,email-out
+3,19,cycle time,email-in
+3,20,downtime,email-out
+3,21,downtime,email-in
+3,20,OEE,email-out
+3,21,OEE,email-in
+3,20,MES,email-out
+3,21,MES,email-in
+3,20,cycle time,email-out
+3,21,cycle time,email-in
+3,22,downtime,email-out
+3,23,downtime,email-in
+3,22,OEE,email-out
+3,23,OEE,email-in
+3,22,MES,email-out
+3,23,MES,email-in
+3,24,downtime,email-out
+3,25,downtime,email-in
+3,24,OEE,email-out
+3,25,OEE,email-in
+3,24,MES,email-out
+3,25,MES,email-in
+3,24,quality defects,email-out
+3,25,quality defects,email-in
+3,26,ERP integration,meeting
+3,26,MES,meeting
+3,26,cycle time,meeting
+3,26,predictive maintenance,meeting
+4,27,multi-tenant,email-out
+4,28,multi-tenant,email-in
+4,27,SOC 2,email-out
+4,28,SOC 2,email-in
+4,29,multi-tenant,email-out
+4,30,multi-tenant,email-in
+4,29,SOC 2,email-out
+4,30,SOC 2,email-in
+4,29,churn risk,email-out
+4,30,churn risk,email-in
+4,31,multi-tenant,email-out
+4,32,multi-tenant,email-in
+4,31,webhooks,email-out
+4,32,webhooks,email-in
+4,31,churn risk,email-out
+4,32,churn risk,email-in
+4,33,API rate limits,email-out
+4,34,API rate limits,email-in
+4,33,webhooks,email-out
+4,34,webhooks,email-in
+4,33,single sign-on,email-out
+4,34,single sign-on,email-in
+4,33,churn risk,email-out
+4,34,churn risk,email-in
+4,35,API rate limits,email-out
+4,36,API rate limits,email-in
+4,35,single sign-on,email-out
+4,36,single sign-on,email-in
+4,35,uptime SLA,email-out
+4,36,uptime SLA,email-in
+4,35,integration backlog,email-out
+4,36,integration backlog,email-in
+4,37,scalability,meeting
+4,37,multi-tenant,meeting
+4,37,data residency,meeting
+4,38,scalability,meeting
+4,38,webhooks,meeting
+4,38,integration backlog,meeting
+5,39,uptime SLA,email-out
+5,40,uptime SLA,email-in
+5,39,integration backlog,email-out
+5,40,integration backlog,email-in
+5,41,scalability,email-out
+5,42,scalability,email-in
+5,41,uptime SLA,email-out
+5,42,uptime SLA,email-in
+5,41,integration backlog,email-out
+5,42,integration backlog,email-in
+5,43,scalability,meeting
+5,43,multi-tenant,meeting
+5,43,SOC 2,meeting
+5,44,SOC 2,meeting
+5,44,single sign-on,meeting
+5,44,integration backlog,meeting
+6,45,SEC reporting,email-out
+6,46,SEC reporting,email-in
+6,45,governance,email-out
+6,46,governance,email-in
+6,47,SEC reporting,email-out
+6,48,SEC reporting,email-in
+6,47,data lineage,email-out
+6,48,data lineage,email-in
+6,47,governance,email-out
+6,48,governance,email-in
+6,47,audit readiness,email-out
+6,48,audit readiness,email-in
+6,49,data lineage,email-out
+6,50,data lineage,email-in
+6,49,governance,email-out
+6,50,governance,email-in
+6,49,trading desk,email-out
+6,50,trading desk,email-in
+6,49,audit readiness,email-out
+6,50,audit readiness,email-in
+6,51,KYC/AML,meeting
+6,51,data lineage,meeting
+6,51,audit readiness,meeting
+7,52,SEC reporting,email-out
+7,53,SEC reporting,email-in
+7,52,KYC/AML,email-out
+7,53,KYC/AML,email-in
+7,54,SEC reporting,email-out
+7,55,SEC reporting,email-in
+7,54,KYC/AML,email-out
+7,55,KYC/AML,email-in
+7,54,data lineage,email-out
+7,55,data lineage,email-in
+7,54,encryption at rest,email-out
+7,55,encryption at rest,email-in
+7,56,SOX controls,email-out
+7,57,SOX controls,email-in
+7,56,KYC/AML,email-out
+7,57,KYC/AML,email-in
+7,56,data lineage,email-out
+7,57,data lineage,email-in
+7,56,encryption at rest,email-out
+7,57,encryption at rest,email-in
+7,58,SEC reporting,meeting
+7,58,data lineage,meeting
+7,58,latency,meeting
+8,59,data lineage,email-out
+8,60,data lineage,email-in
+8,59,audit readiness,email-out
+8,60,audit readiness,email-in
+8,61,data lineage,email-out
+8,62,data lineage,email-in
+8,61,encryption at rest,email-out
+8,62,encryption at rest,email-in
+8,61,audit readiness,email-out
+8,62,audit readiness,email-in
+8,63,SOX controls,email-out
+8,64,SOX controls,email-in
+8,63,data lineage,email-out
+8,64,data lineage,email-in
+8,63,model risk,email-out
+8,64,model risk,email-in
+8,63,encryption at rest,email-out
+8,64,encryption at rest,email-in
+8,65,governance,meeting
+8,65,encryption at rest,meeting
+8,65,trading desk,meeting
+8,66,SEC reporting,meeting
+8,66,governance,meeting
+8,66,trading desk,meeting
+9,67,scalability,email-out
+9,68,scalability,email-in
+9,67,webhooks,email-out
+9,68,webhooks,email-in
+9,69,scalability,email-out
+9,70,scalability,email-in
+9,69,webhooks,email-out
+9,70,webhooks,email-in
+9,69,data residency,email-out
+9,70,data residency,email-in
+9,69,churn risk,email-out
+9,70,churn risk,email-in
+9,71,single sign-on,email-out
+9,72,single sign-on,email-in
+9,71,data residency,email-out
+9,72,data residency,email-in
+9,71,churn risk,email-out
+9,72,churn risk,email-in
+9,73,API rate limits,email-out
+9,74,API rate limits,email-in
+9,73,single sign-on,email-out
+9,74,single sign-on,email-in
+9,73,data residency,email-out
+9,74,data residency,email-in
+9,75,scalability,meeting
+9,75,data residency,meeting
+9,75,churn risk,meeting
+10,76,multi-tenant,email-out
+10,77,multi-tenant,email-in
+10,76,data residency,email-out
+10,77,data residency,email-in
+10,78,multi-tenant,email-out
+10,79,multi-tenant,email-in
+10,78,single sign-on,email-out
+10,79,single sign-on,email-in
+10,78,data residency,email-out
+10,79,data residency,email-in
+10,78,churn risk,email-out
+10,79,churn risk,email-in
+10,80,webhooks,email-out
+10,81,webhooks,email-in
+10,80,single sign-on,email-out
+10,81,single sign-on,email-in
+10,80,integration backlog,email-out
+10,81,integration backlog,email-in
+10,80,churn risk,email-out
+10,81,churn risk,email-in
+10,82,webhooks,email-out
+10,83,webhooks,email-in
+10,82,single sign-on,email-out
+10,83,single sign-on,email-in
+10,82,data residency,email-out
+10,83,data residency,email-in
+10,82,integration backlog,email-out
+10,83,integration backlog,email-in
+10,84,webhooks,email-out
+10,85,webhooks,email-in
+10,84,single sign-on,email-out
+10,85,single sign-on,email-in
+10,84,data residency,email-out
+10,85,data residency,email-in
+10,84,integration backlog,email-out
+10,85,integration backlog,email-in
+10,86,API rate limits,meeting
+10,86,data residency,meeting
+10,86,integration backlog,meeting
+11,87,webhooks,email-out
+11,88,webhooks,email-in
+11,87,churn risk,email-out
+11,88,churn risk,email-in
+11,89,scalability,email-out
+11,90,scalability,email-in
+11,89,webhooks,email-out
+11,90,webhooks,email-in
+11,89,integration backlog,email-out
+11,90,integration backlog,email-in
+11,89,churn risk,email-out
+11,90,churn risk,email-in
+11,91,scalability,email-out
+11,92,scalability,email-in
+11,91,API rate limits,email-out
+11,92,API rate limits,email-in
+11,91,webhooks,email-out
+11,92,webhooks,email-in
+11,91,integration backlog,email-out
+11,92,integration backlog,email-in
+11,93,API rate limits,email-out
+11,94,API rate limits,email-in
+11,93,webhooks,email-out
+11,94,webhooks,email-in
+11,93,single sign-on,email-out
+11,94,single sign-on,email-in
+11,93,churn risk,email-out
+11,94,churn risk,email-in
+11,95,single sign-on,email-out
+11,96,single sign-on,email-in
+11,95,uptime SLA,email-out
+11,96,uptime SLA,email-in
+11,95,churn risk,email-out
+11,96,churn risk,email-in
+11,97,SOC 2,meeting
+11,97,uptime SLA,meeting
+11,97,integration backlog,meeting
+12,98,single sign-on,email-out
+12,99,single sign-on,email-in
+12,98,churn risk,email-out
+12,99,churn risk,email-in
+12,100,API rate limits,email-out
+12,101,API rate limits,email-in
+12,100,webhooks,email-out
+12,101,webhooks,email-in
+12,100,single sign-on,email-out
+12,101,single sign-on,email-in
+12,100,churn risk,email-out
+12,101,churn risk,email-in
+12,102,scalability,meeting
+12,102,SOC 2,meeting
+12,102,API rate limits,meeting
+12,103,multi-tenant,meeting
+12,103,API rate limits,meeting
+12,103,uptime SLA,meeting
+13,104,encryption at rest,email-out
+13,105,encryption at rest,email-in
+13,104,latency,email-out
+13,105,latency,email-in
+13,106,KYC/AML,email-out
+13,107,KYC/AML,email-in
+13,106,data lineage,email-out
+13,107,data lineage,email-in
+13,106,encryption at rest,email-out
+13,107,encryption at rest,email-in
+13,106,latency,email-out
+13,107,latency,email-in
+13,108,SOX controls,email-out
+13,109,SOX controls,email-in
+13,108,KYC/AML,email-out
+13,109,KYC/AML,email-in
+13,108,data lineage,email-out
+13,109,data lineage,email-in
+13,108,encryption at rest,email-out
+13,109,encryption at rest,email-in
+13,110,KYC/AML,meeting
+13,110,latency,meeting
+13,110,trading desk,meeting
+14,111,KYC/AML,email-out
+14,112,KYC/AML,email-in
+14,111,latency,email-out
+14,112,latency,email-in
+14,113,KYC/AML,email-out
+14,114,KYC/AML,email-in
+14,113,latency,email-out
+14,114,latency,email-in
+14,113,trading desk,email-out
+14,114,trading desk,email-in
+14,113,audit readiness,email-out
+14,114,audit readiness,email-in
+14,115,latency,email-out
+14,116,latency,email-in
+14,115,trading desk,email-out
+14,116,trading desk,email-in
+14,115,audit readiness,email-out
+14,116,audit readiness,email-in
+14,117,latency,email-out
+14,118,latency,email-in
+14,117,trading desk,email-out
+14,118,trading desk,email-in
+14,119,model risk,meeting
+14,119,latency,meeting
+14,119,audit readiness,meeting
+15,120,data lineage,email-out
+15,121,data lineage,email-in
+15,120,latency,email-out
+15,121,latency,email-in
+15,122,SOX controls,email-out
+15,123,SOX controls,email-in
+15,122,data lineage,email-out
+15,123,data lineage,email-in
+15,122,latency,email-out
+15,123,latency,email-in
+15,124,data lineage,meeting
+15,124,model risk,meeting
+15,124,governance,meeting
+15,125,SOX controls,meeting
+15,125,KYC/AML,meeting
+15,125,trading desk,meeting
+16,126,EHR/EMR,email-out
+16,127,EHR/EMR,email-in
+16,126,patient privacy,email-out
+16,127,patient privacy,email-in
+16,128,EHR/EMR,email-out
+16,129,EHR/EMR,email-in
+16,128,patient privacy,email-out
+16,129,patient privacy,email-in
+16,128,clinical workflows,email-out
+16,129,clinical workflows,email-in
+16,128,risk assessment,email-out
+16,129,risk assessment,email-in
+16,130,clinical workflows,meeting
+16,130,FHIR,meeting
+16,130,interoperability,meeting
+16,131,patient privacy,meeting
+16,131,clinical workflows,meeting
+16,131,interoperability,meeting
+17,132,clinical workflows,email-out
+17,133,clinical workflows,email-in
+17,132,FHIR,email-out
+17,133,FHIR,email-in
+17,134,BAA contract,email-out
+17,135,BAA contract,email-in
+17,134,audit trail,email-out
+17,135,audit trail,email-in
+17,134,clinical workflows,email-out
+17,135,clinical workflows,email-in
+17,134,FHIR,email-out
+17,135,FHIR,email-in
+17,136,BAA contract,email-out
+17,137,BAA contract,email-in
+17,136,audit trail,email-out
+17,137,audit trail,email-in
+17,136,clinical workflows,email-out
+17,137,clinical workflows,email-in
+17,136,interoperability,email-out
+17,137,interoperability,email-in
+17,138,patient privacy,email-out
+17,139,patient privacy,email-in
+17,138,clinical workflows,email-out
+17,139,clinical workflows,email-in
+17,138,FHIR,email-out
+17,139,FHIR,email-in
+17,138,interoperability,email-out
+17,139,interoperability,email-in
+17,140,patient privacy,email-out
+17,141,patient privacy,email-in
+17,140,clinical workflows,email-out
+17,141,clinical workflows,email-in
+17,140,FHIR,email-out
+17,141,FHIR,email-in
+17,142,audit trail,meeting
+17,142,clinical workflows,meeting
+17,142,risk assessment,meeting

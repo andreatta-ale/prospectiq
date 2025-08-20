@@ -1,0 +1,41 @@
+contact_id,company_id,name,job_title,seniority,relationship,email
+1,1,Riley Silva,COO,Executive,Decision Maker,riley.silva@pioneer.com
+2,1,Casey Silva,COO,Executive,Decision Maker,casey.silva@pioneer.com
+3,1,Riley Gomes,Procurement,Manager,Gatekeeper,riley.gomes@pioneer.com
+4,1,Morgan Souza,Operations Director,Manager,Decision Maker,morgan.souza@pioneer.com
+5,1,Casey Carvalho,COO,Executive,Decision Maker,casey.carvalho@pioneer.com
+6,2,Avery Oliveira,VP Sales,Executive,Decision Maker,avery.oliveira@nova.com
+7,2,Morgan Oliveira,CTO,Executive,Decision Maker,morgan.oliveira@nova.com
+8,2,Casey Barbosa,Security Lead,Manager,Influencer,casey.barbosa@nova.com
+9,2,Quinn Ribeiro,Sales Manager,Manager,Influencer,quinn.ribeiro@nova.com
+10,2,Morgan Barbosa,Sales Manager,Manager,Influencer,morgan.barbosa@nova.com
+11,2,Drew Gomes,Security Lead,Manager,Influencer,drew.gomes@nova.com
+12,3,Jordan Silva,Sales Manager,Manager,Influencer,jordan.silva@quantum.com
+13,3,Jordan Oliveira,VP Sales,Executive,Decision Maker,jordan.oliveira@quantum.com
+14,3,Jamie Oliveira,CTO,Executive,Decision Maker,jamie.oliveira@quantum.com
+15,3,Jamie Gomes,CTO,Executive,Decision Maker,jamie.gomes@quantum.com
+16,3,Drew Souza,Sales Ops,Manager,Gatekeeper,drew.souza@quantum.com
+17,3,Sam Gomes,Sales Manager,Manager,Influencer,sam.gomes@quantum.com
+18,4,Skyler Souza,Data Architect,Manager,Influencer,skyler.souza@nova.com
+19,4,Jamie Ribeiro,IT Director,Manager,Influencer,jamie.ribeiro@nova.com
+20,4,Morgan Moraes,Risk Manager,Staff,Gatekeeper,morgan.moraes@nova.com
+21,4,Riley Souza,IT Director,Manager,Influencer,riley.souza@nova.com
+22,4,Morgan Gomes,CFO,Executive,Decision Maker,morgan.gomes@nova.com
+23,4,Taylor Costa,VP Finance,Staff,Gatekeeper,taylor.costa@nova.com
+24,5,Taylor Ribeiro,Security Lead,Manager,Influencer,taylor.ribeiro@vertex.com
+25,5,Jordan Moraes,Security Lead,Manager,Influencer,jordan.moraes@vertex.com
+26,5,Morgan Moraes,VP Sales,Executive,Decision Maker,morgan.moraes@vertex.com
+27,5,Quinn Carvalho,Sales Ops,Manager,Gatekeeper,quinn.carvalho@vertex.com
+28,6,Quinn Silva,CTO,Executive,Decision Maker,quinn.silva@nova.com
+29,6,Drew Almeida,VP Sales,Executive,Decision Maker,drew.almeida@nova.com
+30,6,Avery Silva,CTO,Executive,Decision Maker,avery.silva@nova.com
+31,6,Jordan Almeida,Sales Ops,Manager,Gatekeeper,jordan.almeida@nova.com
+32,7,Jordan Barbosa,Head of Compliance,Executive,Decision Maker,jordan.barbosa@quantum.com
+33,7,Avery Souza,CFO,Executive,Decision Maker,avery.souza@quantum.com
+34,7,Quinn Oliveira,Head of Compliance,Executive,Decision Maker,quinn.oliveira@quantum.com
+35,7,Taylor Moraes,IT Director,Manager,Influencer,taylor.moraes@quantum.com
+36,7,Avery Ribeiro,CFO,Executive,Decision Maker,avery.ribeiro@quantum.com
+37,8,Casey Ribeiro,Clinical Ops Manager,Manager,Influencer,casey.ribeiro@apex.com
+38,8,Skyler Barbosa,Security Lead,Manager,Influencer,skyler.barbosa@apex.com
+39,8,Casey Barbosa,Security Lead,Manager,Influencer,casey.barbosa@apex.com
+40,8,Morgan Gomes,IT Director,Manager,Influencer,morgan.gomes@apex.com

@@ -1,0 +1,9 @@
+company_id,name,industry,employee_count,size,growth_stage,deal_value_potential
+1,Pioneer Finance,Manufacturing,484,Medium,Startup,30189
+2,Nova Holdings,SaaS,299,Medium,Growth,43526
+3,Quantum Manufacturing,SaaS,2881,Large,Startup,150284
+4,Nova Holdings,Financial Services,3533,Large,Startup,196057
+5,Vertex Analytics,SaaS,108,Small,Startup,17665
+6,Nova Solutions,SaaS,484,Medium,Growth,49714
+7,Quantum Holdings,Financial Services,118,Small,Established,16498
+8,Apex Labs,Healthcare,3986,Large,Growth,112087
