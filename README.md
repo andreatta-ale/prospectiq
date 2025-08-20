@@ -18,7 +18,7 @@ Generate a **realistic, relational** B2B sales dataset (ProspectIQ-style) with L
 ### Option A — Python (local)
 ```bash
 pip install -r requirements.txt
-export OPENAI_API_KEY="YOUR_KEY"   # do NOT commit this
+export OPENAI_API_KEY="YOUR_KEY"
 python prospectiq_dataset_ai_full.py   --companies 8 --reps 10 --seed 42   --model gpt-4o-mini --lang en --outdir ./prospectiq_out
 ```
 
